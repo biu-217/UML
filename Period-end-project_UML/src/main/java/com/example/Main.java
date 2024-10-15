@@ -5,5 +5,6 @@ public class Main {
         
         System.out.printf("Hello and welcome!");
         System.out.printf("你好!");
+        System.out.printf("你好!");
     }
 }
